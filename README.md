@@ -1,16 +1,15 @@
-## Hi there 👋
+![Suci Aqila Nst — Frontend Developer & UI/UX Designer](assets/glassmorphism-hero.svg)
 
-<!--
-**aqilah895/aqilah895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Suci Aqila Nst
 
-Here are some ideas to get you started:
+**Frontend Developer · UI/UX Designer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in frontend development and UI/UX design.
+- 🎨 Focused on creating responsive, intuitive, and user-friendly interfaces.
+- 🌱 Always learning and exploring new technologies.
+- 🤝 Open to collaboration and new opportunities.
+- 📫 Email: [suciaqilah83@gmail.com](mailto:suciaqilah83@gmail.com)
+
+### Connect with me
+
+- GitHub: [@aqilah895](https://github.com/aqilah895)
